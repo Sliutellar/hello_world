@@ -2,7 +2,8 @@
 # This is for Pro Prep
 # This is Stella
 **I love dancing**
--having ice cream
--watching youtube
--doing exercise
--cuddling with my cat
+---
+- having ice cream
+- watching youtube
+- doing exercise
+- cuddling with my cat
