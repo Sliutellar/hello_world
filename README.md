@@ -5,7 +5,7 @@
 ---
 **I love dancing**
 ---
-==If you love to dance we can hang out sometimes==
+==If you love to dance we should hang out sometimes==
 ---
 - having ice cream
 - watching youtube
