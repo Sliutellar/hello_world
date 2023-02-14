@@ -1,10 +1,8 @@
 # hello_world
 # This is for Pro Prep
 # Project Title
----
 Welcome to Stella's World
 # What I love to do
----
 **I love dancing**
 ---
 ==If you love to dance we should hang out sometimes==
